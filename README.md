@@ -1,5 +1,5 @@
 ### Hola, soy Rodrigo 👋
-**Ingeniero Industrial | Analista de Datos en formación**
+**Ingeniero Industrial y Comercial| Analista de Datos en formación**
 
 Mi objetivo es claro: Usar datos para optimizar procesos y generar rentabilidad.
 Combino la lógica de la Ingeniería Industrial con la potencia de Python y SQL.
